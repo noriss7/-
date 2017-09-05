@@ -1,0 +1,10 @@
+class AVTO
+{
+   int SPEED;
+    char NAME[2500];
+    int RANCE;
+    int CAPASITY;
+    public:
+    void go ();
+  
+};
